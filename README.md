@@ -22,9 +22,9 @@ Welcome to my coding corner! I'm a web developer who loves transforming ideas in
 
 ### 📫 Get In Touch
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
+- **Email**: cesar.alberto2003@outlook.com
+- **LinkedIn**: https://www.linkedin.com/in/cesar-alberto-contreras/
+
 
 ---
 
