@@ -14,7 +14,7 @@ Welcome to my coding corner! I'm a web developer who loves transforming ideas in
 
 - **Frontend**: HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express, Flask
-- **Databases**: SQL, MongoDB
+- **Databases**: SQL
 - **Version Control**: Git & GitHub
 - **Tools**: VS Code, Postman
 
